@@ -55,36 +55,6 @@ Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & G
 
 ---
 
-## 🚀 Academic Projects
-
-### 🛒 Fruitables — E-Commerce Web App
-> **Jakarta Servlet · Hibernate · JavaMail · MySQL**
-
-A full-stack e-commerce platform for purchasing fresh produce. Features user authentication, product catalogue, cart management, order processing, and transactional email notifications.
-
----
-
-### 🏥 AyurSoft — Hospital Management System *(Group Project)*
-> **Java Desktop · MySQL · Ward & Bed Management Module**
-
-A collaborative hospital management system. My contribution covered the Ward and Bed Management module — tracking patient allocations, bed availability, and ward assignments.
-
----
-
-### 🚆 Go Train — Android App
-> **Android · Java · Firebase**
-
-A train schedule and booking Android application backed by Firebase Realtime Database, supporting live schedule lookup and user bookings.
-
----
-
-### 🖥️ Dulux Shop App — Desktop POS
-> **Java Swing · MySQL**
-
-A desktop point-of-sale and inventory management application for a paint retail context, built with Java Swing and a MySQL backend.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,18 +64,6 @@ A desktop point-of-sale and inventory management application for a paint retail 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udesh-induwara&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=udesh-induwara&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Get in Touch
-
-I'm open to collaborating on Java backend projects, Android apps, or anything Kotlin-related. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/udesh-induwara)
 
 </div>
 
