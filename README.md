@@ -57,11 +57,11 @@ Passionate about backend engineering and building efficient, scalable, secure, a
 
 <div align="center">
 
-![Udesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udesh-induwara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Udesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udesh-Induwara-Abeykoon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udesh-induwara&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udesh-Induwara-Abeykoon&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=udesh-induwara&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Udesh-Induwara-Abeykoon&theme=tokyonight&hide_border=true)
 
 </div>
 
