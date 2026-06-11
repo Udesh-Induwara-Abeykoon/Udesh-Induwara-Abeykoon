@@ -26,14 +26,13 @@ Software Engineering undergraduate with hands-on experience in Android, backend 
 
 Skilled in Android development with Jetpack Compose, MVVM, Clean Architecture, Kotlin Coroutines, Flow, Room, Retrofit, and Firebase. Experienced in backend development using Java/Kotlin technologies including Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, Java EE/Jakarta EE and Enterprise Java Bean (EJB), MySQL to build scalable, secure, and maintainable systems..
 
-Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & Gradle) Docker, Kubernetes, cloud technologies, and secure application development. Passionate about building high-performance, scalable, and maintainable software solutions while continuously learning modern technologies and best practices.
+Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & Gradle) ,Kafka, Docker, Kubernetes, cloud technologies, and secure application development. Passionate about building high-performance, scalable, and maintainable software solutions while continuously learning modern technologies and best practices.
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -50,8 +49,12 @@ Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & G
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Payara](https://img.shields.io/badge/Payara_Server-003366?style=flat-square&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
