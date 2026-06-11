@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center"> <b> I am Udesh Induwara Abeykoon </b></h1>
+## I am Udesh Induwara Abeykoon
 <!--
 **Udesh-Induwara-Abeykoon/Udesh-Induwara-Abeykoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
