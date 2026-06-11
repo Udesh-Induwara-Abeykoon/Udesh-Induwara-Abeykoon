@@ -22,11 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-Software Engineering undergraduate with hands-on experience in Android, backend development using Java and Kotlin. Experienced in building scalable mobile and enterprise applications using modern software engineering practices. Strong foundation in Object-Oriented Programming (OOP), database design, RESTful APIs, and software architecture principles.
+Undergraduate Software Engineering student with hands-on experience in backend development using Java. Experienced in building web, desktop, mobile, and enterprise applications. Strong foundation in Object-Oriented Programming (OOP), database design, MySQL, and REST API development.
 
-Skilled in Android development with Jetpack Compose, MVVM, Clean Architecture, Kotlin Coroutines, Flow, Room, Retrofit, and Firebase. Experienced in backend development using Java/Kotlin technologies including Spring Boot, Spring MVC, Spring Data JPA, Spring Security, JWT, Hibernate, Java EE/Jakarta EE and Enterprise Java Bean (EJB), MySQL to build scalable, secure, and maintainable systems..
+Familiar with backend and enterprise technologies including Spring Boot, Hibernate, Java EE/Jakarta EE, Enterprise JavaBeans (EJB), and CI/CD practices. Currently expanding knowledge in microservices architecture, Docker, Kubernetes, Kafka, cloud platforms, and Kotlin programming.
 
-Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & Gradle) ,Kafka, Docker, Kubernetes, cloud technologies, and secure application development. Passionate about building high-performance, scalable, and maintainable software solutions while continuously learning modern technologies and best practices.
+Passionate about backend engineering and building efficient, scalable, secure, and maintainable software systems while continuously learning modern software development technologies and best practices.
 
 ## 🛠️ Tech Stack
 
@@ -41,10 +41,6 @@ Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & G
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Android & Mobile
-![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -54,7 +50,6 @@ Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & G
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
