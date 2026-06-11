@@ -24,7 +24,7 @@
 
 Software Engineering undergraduate with hands-on experience in Android, backend development using Java and Kotlin. Experienced in building scalable mobile and enterprise applications using modern software engineering practices. Strong foundation in Object-Oriented Programming (OOP), database design, RESTful APIs, and software architecture principles.
 
-Skilled in Android development with Jetpack Compose, MVVM, Clean Architecture, Kotlin Coroutines, Flow, Room, Retrofit, and Firebase. Experienced in backend development using Java/Kotlin technologies including Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, Java EE/Jakarta EE and Enterprise Java Bean (EJB) to build scalable, secure, and maintainable systems..
+Skilled in Android development with Jetpack Compose, MVVM, Clean Architecture, Kotlin Coroutines, Flow, Room, Retrofit, and Firebase. Experienced in backend development using Java/Kotlin technologies including Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, Java EE/Jakarta EE and Enterprise Java Bean (EJB), MySQL to build scalable, secure, and maintainable systems..
 
 Familiar with microservices architecture, CI/CD pipelines, build tools(Maven & Gradle) Docker, Kubernetes, cloud technologies, and secure application development. Passionate about building high-performance, scalable, and maintainable software solutions while continuously learning modern technologies and best practices.
 
