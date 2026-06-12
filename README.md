@@ -22,11 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-Undergraduate Software Engineering student with hands-on experience in backend development using Java. Experienced in building web, desktop, mobile, and enterprise applications. Strong foundation in Object-Oriented Programming (OOP), database design, MySQL, and REST API development.
-
-Familiar with backend and enterprise technologies including Spring Boot, Hibernate, Java EE/Jakarta EE, Enterprise JavaBeans (EJB), and CI/CD practices. Currently expanding knowledge in microservices architecture, Docker, Kubernetes, Kafka, cloud platforms, and Kotlin programming.
-
-Passionate about backend engineering and building efficient, scalable, secure, and maintainable software systems while continuously learning modern software development technologies and best practices.
+Software Engineering undergraduate with hands-on experience in Java backend development and building web, desktop, mobile, and enterprise applications. Strong foundation in Object-Oriented Programming (OOP), database design, MySQL, and RESTful API development.
+ 
+Familiar with Java technologies including Spring Boot, Spring MVC, Hibernate, Java EE/Jakarta EE, Enterprise JavaBeans (EJB), Maven, Git, and CI/CD practices. Currently expanding knowledge in microservices architecture, Docker, Kubernetes, Apache Kafka, cloud platforms, and software architecture principles.
+ 
+Passionate about designing and developing scalable, secure, and maintainable backend systems. Continuously learning modern software engineering practices and enterprise technologies to build high-quality software solutions.
 
 ## 🛠️ Tech Stack
 
@@ -45,7 +45,6 @@ Passionate about backend engineering and building efficient, scalable, secure, a
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
